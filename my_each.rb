@@ -1,3 +1,5 @@
 def my_each(array)
-  # code here
+  while array < 4 do |x|
+    x.yield(1)
+  x
 end
