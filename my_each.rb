@@ -3,3 +3,4 @@ def my_each(array)
     x.yield(1)
   x
 end
+end
